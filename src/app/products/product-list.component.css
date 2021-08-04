@@ -2,3 +2,7 @@ img {
   width: 50 px;
   margin: 2 px;
 }
+
+thead {
+  color: blue;
+}
